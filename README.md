@@ -14,3 +14,5 @@ Continue until you finish all of this process and get a link.
 Link to contest is as https://www.hackerrank.com/gti-finals
 
 You can give it a try and add suggestions.
+
+![image](https://s3.amazonaws.com/hr-assets/0/1604081947-440860779d-Infinity_Gems.jpg)
